@@ -10,7 +10,7 @@ import {
 import { useLocation, useNavigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { FaTwitter, FaRedo } from 'react-icons/fa'
-import { toaster } from '@/components/ui/toaster'
+// import { toaster } from '@/components/ui/toaster'
 
 const MotionBox = motion(Box)
 
