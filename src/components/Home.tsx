@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react' // Removed unused import
 import { Box, Button, Container, Heading, Text, VStack } from '@chakra-ui/react'
 import { useNavigate } from 'react-router-dom'
 import { FaRocket } from 'react-icons/fa'
